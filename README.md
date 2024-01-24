@@ -9,11 +9,11 @@ Tính năng hiện có của tool:
 
 + Chống Chặn Của TikTok
 
-Link Tải Tool: https://github.com/HaiYTB/tds-tool/releases/download/tool/tds.py
+Link Tải Tool: https://github.com/HaiYTB/tds-tool/releases/download/tool/tiktok.py
 
-Lệnh Setup: termux-setup-storage && pkg update && pkg upgrade && pkg install python && pip install os
+Lệnh Setup: termux-setup-storage && pkg update && pkg upgrade && pkg install python && pip install requests
 
-Lệnh Mở Tool: cd /sdcard/download && python tds.py
+Lệnh Mở Tool: cd /sdcard/download && python tiktok.py
 
 Lưu ý: Nếu nó hỏi "y/n" thì nhấn "y" và enter(chỉ áp dụng đối với lệnh setup thôi nhé.)
 
