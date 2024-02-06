@@ -14,7 +14,7 @@ Link Tải Tool: https://github.com/HaiYTB/tds-tool/releases/download/tool/tikto
 - ISH:
  + Tải ISH trên Apple Store. Mở ISH, rồi mở tệp tiktok.py và chọn ISH. Sau đó chọn thư mục root.
  + Lệnh Setup: apk update && apk upgrade && apk add py3-pip && pip3 install requests
- + Lệnh Mở Tool: python3 tiktok.py
+ + Lệnh Mở Tool: cd /root && python3 tiktok.py
 - Windows:
  + Lệnh Setup Cho 64 Bit: curl https://www.python.org/ftp/python/3.12.1/python-3.12.1-amd64.exe -o python-3.12.1-amd64.exe && python-3.12.1-amd64.exe && pip install requests
  + Lệnh Setup Cho 32 Bit: curl https://www.python.org/ftp/python/3.12.1/python-3.12.1.exe -o python-3.12.1.exe && python-3.12.1.exe && pip install requests
