@@ -22,6 +22,6 @@ Link Tải Tool: https://github.com/HaiYTB/tds-tool/releases/download/tool/tikto
 - Linux:
  + Lệnh Setup: sudo apt update && sudo apt install python3
  + Lệnh Mở Tool: cd /đường/dẫn/đến/tool && python tiktok.py
-- Support:
+- Support & Bug Report:
  + FaceBook: https://www.facebook.com/haiytb22
  + Telegram: https://t.me/haiytb22
